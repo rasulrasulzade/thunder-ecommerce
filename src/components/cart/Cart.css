@@ -1,0 +1,20 @@
+.cart-icon svg {
+	width: 28px;
+	height: auto;
+}
+
+.cart {
+	box-shadow: 2px 2px 7px #392A8F;
+
+}
+.buy-btn {
+	color: #392A8F;
+	transition: 0.4s ease;
+	font: 400 22px Roboto,sans-serif;
+	text-align: center!important;
+}
+.buy-btn:hover {
+	background-color: #392A8F!important;
+	color: white!important;
+	outline: 0;
+}

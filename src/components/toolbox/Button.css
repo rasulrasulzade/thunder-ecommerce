@@ -1,0 +1,22 @@
+.submit-button {
+	width: 100%;
+	border: solid 2px #392A8F;
+	font: 400 20px Roboto, sans-serif;
+	color: #392A8F;
+	background: white;
+	border-radius: 20px;
+	padding: 8px 10px;
+	margin: 20px auto;
+	transition: 0.4s ease;
+}
+.submit-button:focus {
+	outline: 0;
+	color: white;
+	background: #392A8F;
+}
+
+.submit-button:hover {
+	outline: 0;
+	color: white;
+	background: #392A8F;
+}

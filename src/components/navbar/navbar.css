@@ -1,0 +1,13 @@
+.my-navbar {
+	 background-color: #392A8F;
+    color: white;
+}
+
+.nv-list {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.logo {
+	font: 500 28px Roboto,sans-serif;
+}

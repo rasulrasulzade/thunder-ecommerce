@@ -1,0 +1,10 @@
+.auth-form {
+	max-width: 600px;
+	padding: 20px 60px 10px 60px;
+    border-radius: 12px;
+    box-shadow: 3px 3px 20px #392A8F;
+}
+
+.auth-form .form-header {
+	color: #392A8F
+}

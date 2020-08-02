@@ -1,0 +1,21 @@
+.field-label {
+	display: block;
+	font: 400 20px Roboto, sans-serif;
+	margin-bottom: 5px;
+}
+
+.field {
+	margin-top: 8px;
+}
+
+.field input {
+	font: 400 20px Roboto, sans-serif;
+	border-radius: 25px;
+	padding: 6px 25px;
+}
+
+.field-alert {
+	color: red;
+	margin-top: 5px;
+    font-size: 16px;
+}
