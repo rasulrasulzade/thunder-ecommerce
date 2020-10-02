@@ -4,4 +4,3 @@
 
 3.npm run start
 
-4.npm run fake-back at another terminal
